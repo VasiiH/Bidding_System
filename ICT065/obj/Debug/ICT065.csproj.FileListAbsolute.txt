@@ -1,0 +1,14 @@
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\bin\Debug\ICT065.exe.config
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\bin\Debug\ICT065.exe
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\bin\Debug\ICT065.pdb
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\obj\Debug\ICT065.csprojAssemblyReference.cache
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\obj\Debug\ICT065.Form_Register.resources
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\obj\Debug\ICT065.Properties.Resources.resources
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\obj\Debug\ICT065.csproj.GenerateResource.cache
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\obj\Debug\ICT065.csproj.CoreCompileInputs.cache
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\obj\Debug\ICT065.exe
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\obj\Debug\ICT065.pdb
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\obj\Debug\ICT065.FormLogin.resources
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\obj\Debug\ICT065.FormItems.resources
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\obj\Debug\ICT065.FormAddItems.resources
+C:\Users\vasih\OneDrive\Desktop\ICT065 SWT41051\ICT065\ICT065\obj\Debug\ICT065.FormAdminLogin.resources
